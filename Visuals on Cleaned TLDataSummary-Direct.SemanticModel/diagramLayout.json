@@ -1,0 +1,139 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 1309,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 482,
+            "y": 32
+          },
+          "nodeIndex": "List of All US Counties and Cities",
+          "nodeLineageTag": "99d86c8f-3a1a-4dd6-a5ba-8d1dec6626b4",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "TLDataSummary-Cleaned",
+          "nodeLineageTag": "613cbe6f-6b10-4505-b2ee-97456d65378c",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 879,
+            "y": 0
+          },
+          "nodeIndex": "Maximum Distance",
+          "nodeLineageTag": "f107100f-6539-4f54-b4a0-69c12e8fa138",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 233.62500762939453,
+            "y": 345
+          },
+          "nodeIndex": "USA States Geo",
+          "nodeLineageTag": "baa71a26-cd49-4f93-b8f4-23763a22df8c",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1054,
+            "y": 323.5
+          },
+          "nodeIndex": "Valid Sales Rep",
+          "nodeLineageTag": "3afdc32a-218a-46e2-aa12-7e43a14cdbf1",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1404,
+            "y": 320.5
+          },
+          "nodeIndex": "Dealer Forecast Data",
+          "nodeLineageTag": "88b986a0-560c-4472-a23e-d728f63ffcad",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1972,
+            "y": 184.5
+          },
+          "nodeIndex": "US States Non Abbreviated",
+          "nodeLineageTag": "242aaa43-5fa2-49ea-9aff-ff0ece495ed2",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2256,
+            "y": 98.5
+          },
+          "nodeIndex": "df_model_data",
+          "nodeLineageTag": "e40f54bb-56f1-4269-831a-082153139151",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2540,
+            "y": 100.5
+          },
+          "nodeIndex": "df_pca",
+          "nodeLineageTag": "2c600ea2-5bf2-4a68-851b-d9ba32facff0",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
