@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Visuals on Cleaned TLDataSummary-Direct"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3da2827c-8aca-4574-9627-a6edf595d5b3"
+  }
+}
