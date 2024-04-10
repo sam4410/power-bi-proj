@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "APCO Revenue Analytics"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1dd4e38e-a690-4eb5-a4b1-9c533c6b8b34"
+  }
+}
